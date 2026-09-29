@@ -85,12 +85,6 @@ for assignment in ASSIGNMENTS:
         label=f"{assignment['module']} — {assignment['title']}",
     )
 
-st.sidebar.markdown("---")
-
-st.sidebar.caption(
-    "Future assignments can be added to the portal by adding another "
-    "entry to the ASSIGNMENTS list in app.py."
-)
 
 st.info(
     "The assignment applications are hosted separately so that each "
