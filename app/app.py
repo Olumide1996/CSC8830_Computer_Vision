@@ -54,6 +54,18 @@ ASSIGNMENTS = [
         "link_label": "Open Module 4",
     },
     {
+        "module": "Module 6",
+        "title": "Optical Flow & Structure from Motion",
+        "description": (
+            "Dense optical flow, motion tracking, bilinear interpolation, "
+            "and planar Structure from Motion using four camera viewpoints."
+        ),
+        "url": "https://csc8830-module6-olumide.streamlit.app/",
+        "icon": "M6",
+        "status": "Live",
+        "link_label": "Open Module 6",
+    },
+    {
         "module": "Keynote 3",
         "title": "Video-LLM Feasibility Prototype",
         "description": (
